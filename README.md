@@ -1,1 +1,0 @@
-# necessary_cut_image
